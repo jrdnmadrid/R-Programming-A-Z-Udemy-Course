@@ -5,15 +5,22 @@ getwd()
 
 setwd("C:\\Users\\jrdnm\\DevelopmentProjects\\New folder\\Homework\\World Bank")
 
-#Create the data frame with csv
-mydf <- read.csv("P2-Section5-Homework-Data.csv")
+#Create the data frame with csv for 2013
+df_2013 <- read.csv("P2-Section5-Homework-Data_2013_Data.csv")
 
-#rename columns
-colnames(mydf) <- c("Country", "Code", "Region", "Year", "Fertility Rate") 
+#Create the data frame with csv for 1960
+df_1960 <- read.csv("P2-Section5-Homework-Data_1960_Data.csv")
 
-#look at data
-head(mydf)
 
+#rename columns in both data frames
+colnames(df_2013) <- c("Country", "Code", "Region", "Year", "Fertility_Rate") 
+colnames(df_1960) <- c("Country", "Code", "Region", "Year", "Fertility_Rate") 
+
+
+#look at both sets of data
+head(df_2013)
+
+head(df_1960)
 
 #Execute below code to generate three new vectors - data from Kirill
 Country_Code <- c("ABW","AFG","AGO","ALB","ARE","ARG","ARM","ATG","AUS","AUT","AZE","BDI","BEL","BEN","BFA","BGD","BGR","BHR","BHS","BIH","BLR","BLZ","BOL","BRA","BRB","BRN","BTN","BWA","CAF","CAN","CHE","CHL","CHN","CIV","CMR","COG","COL","COM","CPV","CRI","CUB","CYP","CZE","DEU","DJI","DNK","DOM","DZA","ECU","EGY","ERI","ESP","EST","ETH","FIN","FJI","FRA","FSM","GAB","GBR","GEO","GHA","GIN","GMB","GNB","GNQ","GRC","GRD","GTM","GUM","GUY","HKG","HND","HRV","HTI","HUN","IDN","IND","IRL","IRN","IRQ","ISL","ITA","JAM","JOR","JPN","KAZ","KEN","KGZ","KHM","KIR","KOR","KWT","LAO","LBN","LBR","LBY","LCA","LKA","LSO","LTU","LUX","LVA","MAC","MAR","MDA","MDG","MDV","MEX","MKD","MLI","MLT","MMR","MNE","MNG","MOZ","MRT","MUS","MWI","MYS","NAM","NCL","NER","NGA","NIC","NLD","NOR","NPL","NZL","OMN","PAK","PAN","PER","PHL","PNG","POL","PRI","PRT","PRY","PYF","QAT","ROU","RUS","RWA","SAU","SDN","SEN","SGP","SLB","SLE","SLV","SOM","SSD","STP","SUR","SVK","SVN","SWE","SWZ","SYR","TCD","TGO","THA","TJK","TKM","TLS","TON","TTO","TUN","TUR","TZA","UGA","UKR","URY","USA","UZB","VCT","VEN","VIR","VNM","VUT","WSM","YEM","ZAF","COD","ZMB","ZWE")
@@ -22,11 +29,49 @@ Life_Expectancy_At_Birth_2013 <- c(75.3286585365854,60.0282682926829,51.86617073
 
 #(c) Kirill Eremenko, www.superdatascience.com
 
+#Merge all three into a data frame
+CountryCode_Lifecycle_df <- data.frame(Country_Code, LE_1960 = Life_Expectancy_At_Birth_1960, 
+                                         LE_2013 = Life_Expectancy_At_Birth_2013)
 
-#merge three vectors into one data frame
-mydf2 <- data.frame(Country_Code, Life_Expectancy_At_Birth_1960, Life_Expectancy_At_Birth_2013)
+
+#Merge 1960 data with Lifecycle data
+mergedf_1960 <- merge(df_1960, CountryCode_Lifecycle_df, by.x = "Code", by.y = "Country_Code")
+
+#Merge 2013 data with Lifecycle data
+mergedf_2013 <- merge(df_2013, CountryCode_Lifecycle_df, by.x = "Code", by.y = "Country_Code")
+
+head(mergedf_1960)
+
+head(mergedf_2013)
+
+#Now that we've set up the data, we can start the analysis. We are required to produce a scatterplot 
+#depicting life expectancy (y-axis) and fertility rate (x-axis) statistics by country.
+#scatterplot also needs to be categorized by Countries' Regions.
+# They also want insights comparing the two years.
 
 
-#Merge two data frames together based on country code
+#First Problem: Scatterplot by life expectancy (y-axis) and fertility rate (x-axis) statistics by country. 
 
-mergeddf <- merge()
+#1960 visualization and basic mean calculations
+qplot(data = mergedf_1960, x = Fertility_Rate, y = Life_Expectancy_At_Birth_1960, color = Region, size = I(2), main = "Life Expectancy vs Fertility Rate - 1960")
+mean(Life_Expectancy_At_Birth_1960)
+mean(mergedf_1960$Fertility_Rate)
+
+#2013 visualization and basic mean calculations
+qplot(data = mergedf_2013, x = Fertility_Rate, y = Life_Expectancy_At_Birth_2013, color = Region, size = I(2), main = "Life Expectancy vs Fertility Rate - 2013")
+mean(Life_Expectancy_At_Birth_2013)
+mean(mergedf_2013$Fertility_Rate)
+
+#Insights
+
+#The big difference between the two, is that fertility rate has dropped for most countries outside Africa, and even within Africa. 
+
+#Looking at the mean average, we can see the average life expectancy increased by more than 15+ years across all countries (53yrs vs 70yrs).
+
+#We can also see the average fertility rate was almost cut in half, from 5.53 in 1960 to 2.8 in 2013. 
+
+
+
+
+
+

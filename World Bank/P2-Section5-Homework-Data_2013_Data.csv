@@ -1,0 +1,188 @@
+﻿Country Name,Country Code,Region,Year,Fertility Rate
+Afghanistan,AFG,Asia,2013,5.05
+Albania,ALB,Europe,2013,1.771
+Algeria,DZA,Africa,2013,2.893
+Angola,AGO,Africa,2013,6.165
+Antigua and Barbuda,ATG,The Americas,2013,2.088
+Argentina,ARG,The Americas,2013,2.335
+Armenia,ARM,Asia,2013,1.553
+Aruba,ABW,The Americas,2013,1.669
+Australia,AUS,Oceania,2013,1.921
+Austria,AUT,Europe,2013,1.44
+Azerbaijan,AZE,Asia,2013,2
+"Bahamas, The",BHS,The Americas,2013,1.883
+Bahrain,BHR,Middle East,2013,2.075
+Bangladesh,BGD,Asia,2013,2.209
+Barbados,BRB,The Americas,2013,1.791
+Belarus,BLR,Europe,2013,1.62
+Belgium,BEL,Europe,2013,1.79
+Belize,BLZ,The Americas,2013,2.611
+Benin,BEN,Africa,2013,4.846
+Bhutan,BTN,Asia,2013,2.082
+Bolivia,BOL,The Americas,2013,3.017
+Bosnia and Herzegovina,BIH,Europe,2013,1.272
+Botswana,BWA,Africa,2013,2.864
+Brazil,BRA,The Americas,2013,1.801
+Brunei Darussalam,BRN,Asia,2013,1.893
+Bulgaria,BGR,Europe,2013,1.5
+Burkina Faso,BFA,Africa,2013,5.607
+Burundi,BDI,Africa,2013,6.035
+Cabo Verde,CPV,Africa,2013,2.339
+Cambodia,KHM,Asia,2013,2.683
+Cameroon,CMR,Africa,2013,4.781
+Canada,CAN,The Americas,2013,1.61
+Central African Republic,CAF,Africa,2013,4.368
+Chad,TCD,Africa,2013,6.264
+Chile,CHL,The Americas,2013,1.774
+China,CHN,Asia,2013,1.668
+Colombia,COL,The Americas,2013,1.922
+Comoros,COM,Africa,2013,4.56
+"Congo, Dem. Rep.",COD,Africa,2013,6.103
+"Congo, Rep.",COG,Africa,2013,4.919
+Costa Rica,CRI,The Americas,2013,1.841
+Cote d'Ivoire,CIV,Africa,2013,5.063
+Croatia,HRV,Europe,2013,1.51
+Cuba,CUB,The Americas,2013,1.622
+Cyprus,CYP,Europe,2013,1.455
+Czech Republic,CZE,Europe,2013,1.45
+Denmark,DNK,Europe,2013,1.73
+Djibouti,DJI,Africa,2013,3.262
+Dominican Republic,DOM,The Americas,2013,2.51
+Ecuador,ECU,The Americas,2013,2.571
+"Egypt, Arab Rep.",EGY,Africa,2013,3.336
+El Salvador,SLV,The Americas,2013,1.958
+Equatorial Guinea,GNQ,Africa,2013,4.924
+Eritrea,ERI,Africa,2013,4.363
+Estonia,EST,Europe,2013,1.56
+Ethiopia,ETH,Africa,2013,4.517
+Fiji,FJI,Oceania,2013,2.589
+Finland,FIN,Europe,2013,1.8
+France,FRA,Europe,2013,2.01
+French Polynesia,PYF,Oceania,2013,2.059
+Gabon,GAB,Africa,2013,3.963
+"Gambia, The",GMB,Africa,2013,5.751
+Georgia,GEO,Asia,2013,1.817
+Germany,DEU,Europe,2013,1.38
+Ghana,GHA,Africa,2013,4.209
+Greece,GRC,Europe,2013,1.29
+Grenada,GRD,The Americas,2013,2.171
+Guam,GUM,Oceania,2013,2.406
+Guatemala,GTM,The Americas,2013,3.263
+Guinea,GIN,Africa,2013,5.094
+Guinea-Bissau,GNB,Africa,2013,4.906
+Guyana,GUY,The Americas,2013,2.585
+Haiti,HTI,The Americas,2013,3.098
+Honduras,HND,The Americas,2013,2.442
+"Hong Kong SAR, China",HKG,Asia,2013,1.124
+Hungary,HUN,Europe,2013,1.34
+Iceland,ISL,Europe,2013,2.04
+India,IND,Asia,2013,2.465
+Indonesia,IDN,Asia,2013,2.484
+"Iran, Islamic Rep.",IRN,Middle East,2013,1.726
+Iraq,IRQ,Middle East,2013,4.026
+Ireland,IRL,Europe,2013,2.01
+Italy,ITA,Europe,2013,1.43
+Jamaica,JAM,The Americas,2013,2.26
+Japan,JPN,Asia,2013,1.43
+Jordan,JOR,Middle East,2013,3.244
+Kazakhstan,KAZ,Asia,2013,2.64
+Kenya,KEN,Africa,2013,4.406
+Kiribati,KIR,Oceania,2013,3.765
+"Korea, Rep.",KOR,Asia,2013,1.187
+Kuwait,KWT,Middle East,2013,2.6
+Kyrgyz Republic,KGZ,Asia,2013,3.2
+Lao PDR,LAO,Asia,2013,3.063
+Latvia,LVA,Europe,2013,1.44
+Lebanon,LBN,Middle East,2013,1.495
+Lesotho,LSO,Africa,2013,3.222
+Liberia,LBR,Africa,2013,4.793
+Libya,LBY,Africa,2013,2.507
+Lithuania,LTU,Europe,2013,1.6
+Luxembourg,LUX,Europe,2013,1.57
+"Macao SAR, China",MAC,Asia,2013,1.204
+"Macedonia, FYR",MKD,Europe,2013,1.511
+Madagascar,MDG,Africa,2013,4.468
+Malawi,MWI,Africa,2013,5.22
+Malaysia,MYS,Asia,2013,1.956
+Maldives,MDV,Asia,2013,2.152
+Mali,MLI,Africa,2013,6.314
+Malta,MLT,Europe,2013,1.43
+Mauritania,MRT,Africa,2013,4.662
+Mauritius,MUS,Africa,2013,1.44
+Mexico,MEX,The Americas,2013,2.272
+"Micronesia, Fed. Sts.",FSM,Oceania,2013,3.294
+Moldova,MDA,Europe,2013,1.456
+Mongolia,MNG,Asia,2013,2.657
+Montenegro,MNE,Europe,2013,1.666
+Morocco,MAR,Africa,2013,2.535
+Mozambique,MOZ,Africa,2013,5.418
+Myanmar,MMR,Asia,2013,2.239
+Namibia,NAM,Africa,2013,3.56
+Nepal,NPL,Asia,2013,2.292
+Netherlands,NLD,Europe,2013,1.72
+New Caledonia,NCL,Oceania,2013,2.28
+New Zealand,NZL,Oceania,2013,1.95
+Nicaragua,NIC,The Americas,2013,2.3
+Niger,NER,Africa,2013,7.623
+Nigeria,NGA,Africa,2013,5.707
+Norway,NOR,Europe,2013,1.85
+Oman,OMN,Middle East,2013,2.823
+Pakistan,PAK,Asia,2013,3.682
+Panama,PAN,The Americas,2013,2.465
+Papua New Guinea,PNG,Oceania,2013,3.812
+Paraguay,PRY,The Americas,2013,2.581
+Peru,PER,The Americas,2013,2.48
+Philippines,PHL,Asia,2013,3.011
+Poland,POL,Europe,2013,1.3
+Portugal,PRT,Europe,2013,1.28
+Puerto Rico,PRI,The Americas,2013,1.636
+Qatar,QAT,Middle East,2013,2.043
+Romania,ROU,Europe,2013,1.53
+Russian Federation,RUS,Europe,2013,1.7
+Rwanda,RWA,Africa,2013,4.012
+Samoa,WSM,Oceania,2013,4.147
+Sao Tome and Principe,STP,Africa,2013,4.634
+Saudi Arabia,SAU,Middle East,2013,2.818
+Senegal,SEN,Africa,2013,5.134
+Sierra Leone,SLE,Africa,2013,4.746
+Singapore,SGP,Asia,2013,1.19
+Slovak Republic,SVK,Europe,2013,1.34
+Slovenia,SVN,Europe,2013,1.58
+Solomon Islands,SLB,Oceania,2013,4.031
+Somalia,SOM,Africa,2013,6.565
+South Africa,ZAF,Africa,2013,2.387
+South Sudan,SSD,Africa,2013,5.108
+Spain,ESP,Europe,2013,1.32
+Sri Lanka,LKA,Asia,2013,2.339
+St. Lucia,LCA,The Americas,2013,1.913
+St. Vincent and the Grenadines,VCT,The Americas,2013,1.997
+Sudan,SDN,Africa,2013,4.421
+Suriname,SUR,The Americas,2013,2.386
+Swaziland,SWZ,Africa,2013,3.334
+Sweden,SWE,Europe,2013,1.91
+Switzerland,CHE,Europe,2013,1.52
+Syrian Arab Republic,SYR,Middle East,2013,2.964
+Tajikistan,TJK,Asia,2013,3.514
+Tanzania,TZA,Africa,2013,5.215
+Thailand,THA,Asia,2013,1.524
+Timor-Leste,TLS,Asia,2013,5.2
+Togo,TGO,Africa,2013,4.655
+Tonga,TON,Oceania,2013,3.768
+Trinidad and Tobago,TTO,The Americas,2013,1.789
+Tunisia,TUN,Africa,2013,2.25
+Turkey,TUR,Europe,2013,2.041
+Turkmenistan,TKM,Asia,2013,2.326
+Uganda,UGA,Africa,2013,5.869
+Ukraine,UKR,Europe,2013,1.506
+United Arab Emirates,ARE,Middle East,2013,1.801
+United Kingdom,GBR,Europe,2013,1.92
+United States,USA,The Americas,2013,1.8695
+Uruguay,URY,The Americas,2013,2.033
+Uzbekistan,UZB,Asia,2013,2.2
+Vanuatu,VUT,Oceania,2013,3.383
+"Venezuela, RB",VEN,The Americas,2013,2.391
+Vietnam,VNM,Asia,2013,1.743
+Virgin Islands (U.S.),VIR,The Americas,2013,1.77
+"Yemen, Rep.",YEM,Middle East,2013,4.284
+Zambia,ZMB,Africa,2013,5.429
+Zimbabwe,ZWE,Africa,2013,3.977

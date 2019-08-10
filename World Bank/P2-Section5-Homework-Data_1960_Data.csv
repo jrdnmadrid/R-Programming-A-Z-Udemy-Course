@@ -1,0 +1,188 @@
+Country Name,Country Code,Region,Year,Fertility Rate
+Aruba,ABW,The Americas,1960,4.82
+Afghanistan,AFG,Asia,1960,7.45
+Angola,AGO,Africa,1960,7.379
+Albania,ALB,Europe,1960,6.186
+United Arab Emirates,ARE,Middle East,1960,6.928
+Argentina,ARG,The Americas,1960,3.109
+Armenia,ARM,Asia,1960,4.55
+Antigua and Barbuda,ATG,The Americas,1960,4.425
+Australia,AUS,Oceania,1960,3.453
+Austria,AUT,Europe,1960,2.69
+Azerbaijan,AZE,Asia,1960,5.571
+Burundi,BDI,Africa,1960,6.953
+Belgium,BEL,Europe,1960,2.54
+Benin,BEN,Africa,1960,6.282
+Burkina Faso,BFA,Africa,1960,6.291
+Bangladesh,BGD,Asia,1960,6.725
+Bulgaria,BGR,Europe,1960,2.31
+Bahrain,BHR,Middle East,1960,7.09
+"Bahamas, The",BHS,The Americas,1960,4.495
+Bosnia and Herzegovina,BIH,Europe,1960,3.77
+Belarus,BLR,Europe,1960,2.67
+Belize,BLZ,The Americas,1960,6.5
+Bolivia,BOL,The Americas,1960,6.7
+Brazil,BRA,The Americas,1960,6.21
+Barbados,BRB,The Americas,1960,4.333
+Brunei Darussalam,BRN,Asia,1960,6.487
+Bhutan,BTN,Asia,1960,6.67
+Botswana,BWA,Africa,1960,6.615
+Central African Republic,CAF,Africa,1960,5.84
+Canada,CAN,The Americas,1960,3.811
+Switzerland,CHE,Europe,1960,2.44
+Chile,CHL,The Americas,1960,5.113
+China,CHN,Asia,1960,5.758
+Cote d'Ivoire,CIV,Africa,1960,7.351
+Cameroon,CMR,Africa,1960,5.647
+"Congo, Rep.",COG,Africa,1960,5.88
+Colombia,COL,The Americas,1960,6.807
+Comoros,COM,Africa,1960,6.792
+Cabo Verde,CPV,Africa,1960,6.885
+Costa Rica,CRI,The Americas,1960,6.451
+Cuba,CUB,The Americas,1960,4.182
+Cyprus,CYP,Europe,1960,3.5
+Czech Republic,CZE,Europe,1960,2.09
+Germany,DEU,Europe,1960,2.37
+Djibouti,DJI,Africa,1960,6.461
+Denmark,DNK,Europe,1960,2.57
+Dominican Republic,DOM,The Americas,1960,7.555
+Algeria,DZA,Africa,1960,7.524
+Ecuador,ECU,The Americas,1960,6.721
+"Egypt, Arab Rep.",EGY,Africa,1960,6.63
+Eritrea,ERI,Africa,1960,6.899
+Spain,ESP,Europe,1960,2.86
+Estonia,EST,Europe,1960,1.98
+Ethiopia,ETH,Africa,1960,6.88
+Finland,FIN,Europe,1960,2.72
+Fiji,FJI,Oceania,1960,6.461
+France,FRA,Europe,1960,2.85
+"Micronesia, Fed. Sts.",FSM,Oceania,1960,6.934
+Gabon,GAB,Africa,1960,4.384
+United Kingdom,GBR,Europe,1960,2.69
+Georgia,GEO,Asia,1960,2.964
+Ghana,GHA,Africa,1960,6.749
+Guinea,GIN,Africa,1960,6.114
+"Gambia, The",GMB,Africa,1960,5.573
+Guinea-Bissau,GNB,Africa,1960,5.921
+Equatorial Guinea,GNQ,Africa,1960,5.505
+Greece,GRC,Europe,1960,2.23
+Grenada,GRD,The Americas,1960,6.743
+Guatemala,GTM,The Americas,1960,6.534
+Guam,GUM,Oceania,1960,6.052
+Guyana,GUY,The Americas,1960,5.754
+"Hong Kong SAR, China",HKG,Asia,1960,5.162
+Honduras,HND,The Americas,1960,7.458
+Croatia,HRV,Europe,1960,2.332
+Haiti,HTI,The Americas,1960,6.324
+Hungary,HUN,Europe,1960,2.02
+Indonesia,IDN,Asia,1960,5.666
+India,IND,Asia,1960,5.906
+Ireland,IRL,Europe,1960,3.78
+"Iran, Islamic Rep.",IRN,Middle East,1960,6.927
+Iraq,IRQ,Middle East,1960,6.252
+Iceland,ISL,Europe,1960,4.29
+Italy,ITA,Europe,1960,2.37
+Jamaica,JAM,The Americas,1960,5.419
+Jordan,JOR,Middle East,1960,7.687
+Japan,JPN,Asia,1960,2.001
+Kazakhstan,KAZ,Asia,1960,4.563
+Kenya,KEN,Africa,1960,7.946
+Kyrgyz Republic,KGZ,Asia,1960,5.166
+Cambodia,KHM,Asia,1960,6.967
+Kiribati,KIR,Oceania,1960,6.788
+"Korea, Rep.",KOR,Asia,1960,6.155
+Kuwait,KWT,Middle East,1960,7.251
+Lao PDR,LAO,Asia,1960,5.961
+Lebanon,LBN,Middle East,1960,5.739
+Liberia,LBR,Africa,1960,6.406
+Libya,LBY,Africa,1960,7.202
+St. Lucia,LCA,The Americas,1960,6.967
+Sri Lanka,LKA,Asia,1960,5.541
+Lesotho,LSO,Africa,1960,5.839
+Lithuania,LTU,Europe,1960,2.56
+Luxembourg,LUX,Europe,1960,2.29
+Latvia,LVA,Europe,1960,1.94
+"Macao SAR, China",MAC,Asia,1960,4.945
+Morocco,MAR,Africa,1960,7.065
+Moldova,MDA,Europe,1960,3.328
+Madagascar,MDG,Africa,1960,7.3
+Maldives,MDV,Asia,1960,7.021
+Mexico,MEX,The Americas,1960,6.768
+"Macedonia, FYR",MKD,Europe,1960,3.842
+Mali,MLI,Africa,1960,6.967
+Malta,MLT,Europe,1960,3.62
+Myanmar,MMR,Asia,1960,6.051
+Montenegro,MNE,Europe,1960,3.521
+Mongolia,MNG,Asia,1960,6.953
+Mozambique,MOZ,Africa,1960,6.6
+Mauritania,MRT,Africa,1960,6.775
+Mauritius,MUS,Africa,1960,6.167
+Malawi,MWI,Africa,1960,6.94
+Malaysia,MYS,Asia,1960,6.194
+Namibia,NAM,Africa,1960,6.15
+New Caledonia,NCL,Oceania,1960,6.278
+Niger,NER,Africa,1960,7.407
+Nigeria,NGA,Africa,1960,6.354
+Nicaragua,NIC,The Americas,1960,7.336
+Netherlands,NLD,Europe,1960,3.12
+Norway,NOR,Europe,1960,2.85
+Nepal,NPL,Asia,1960,5.959
+New Zealand,NZL,Oceania,1960,4.129
+Oman,OMN,Middle East,1960,7.247
+Pakistan,PAK,Asia,1960,6.6
+Panama,PAN,The Americas,1960,5.87
+Peru,PER,The Americas,1960,6.971
+Philippines,PHL,Asia,1960,7.148
+Papua New Guinea,PNG,Oceania,1960,6.275
+Poland,POL,Europe,1960,2.98
+Puerto Rico,PRI,The Americas,1960,4.657
+Portugal,PRT,Europe,1960,3.16
+Paraguay,PRY,The Americas,1960,6.5
+French Polynesia,PYF,Oceania,1960,5.658
+Qatar,QAT,Middle East,1960,6.971
+Romania,ROU,Europe,1960,2.34
+Russian Federation,RUS,Europe,1960,2.52
+Rwanda,RWA,Africa,1960,8.187
+Saudi Arabia,SAU,Middle East,1960,7.216
+Sudan,SDN,Africa,1960,6.691
+Senegal,SEN,Africa,1960,6.951
+Singapore,SGP,Asia,1960,5.454
+Solomon Islands,SLB,Oceania,1960,6.388
+Sierra Leone,SLE,Africa,1960,5.97
+El Salvador,SLV,The Americas,1960,6.674
+Somalia,SOM,Africa,1960,7.25
+South Sudan,SSD,Africa,1960,6.721
+Sao Tome and Principe,STP,Africa,1960,6.242
+Suriname,SUR,The Americas,1960,6.608
+Slovak Republic,SVK,Europe,1960,3.04
+Slovenia,SVN,Europe,1960,2.324
+Sweden,SWE,Europe,1960,2.17
+Swaziland,SWZ,Africa,1960,6.717
+Syrian Arab Republic,SYR,Middle East,1960,7.467
+Chad,TCD,Africa,1960,6.25
+Togo,TGO,Africa,1960,6.521
+Thailand,THA,Asia,1960,6.147
+Tajikistan,TJK,Asia,1960,6.235
+Turkmenistan,TKM,Asia,1960,6.415
+Timor-Leste,TLS,Asia,1960,6.373
+Tonga,TON,Oceania,1960,7.363
+Trinidad and Tobago,TTO,The Americas,1960,5.264
+Tunisia,TUN,Africa,1960,7.043
+Turkey,TUR,Europe,1960,6.303
+Tanzania,TZA,Africa,1960,6.806
+Uganda,UGA,Africa,1960,6.999
+Ukraine,UKR,Europe,1960,2.24
+Uruguay,URY,The Americas,1960,2.88
+United States,USA,The Americas,1960,3.654
+Uzbekistan,UZB,Asia,1960,6.707
+St. Vincent and the Grenadines,VCT,The Americas,1960,7.224
+"Venezuela, RB",VEN,The Americas,1960,6.616
+Virgin Islands (U.S.),VIR,The Americas,1960,5.615
+Vietnam,VNM,Asia,1960,6.348
+Vanuatu,VUT,Oceania,1960,7.197
+Samoa,WSM,Oceania,1960,7.651
+"Yemen, Rep.",YEM,Middle East,1960,7.38
+South Africa,ZAF,Africa,1960,6.173
+"Congo, Dem. Rep.",COD,Africa,1960,6.001
+Zambia,ZMB,Africa,1960,7.018
+Zimbabwe,ZWE,Africa,1960,7.158
