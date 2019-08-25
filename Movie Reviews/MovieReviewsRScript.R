@@ -43,17 +43,21 @@ vis <- df + geom_jitter(aes(colour = Studio, size = Budget...mill.)) + geom_boxp
 
 
 #Adjust Themes
-vis + 
+q<- vis + 
   ylab("Gross % US") + 
   ggtitle("Domestic Gross % By Genre") +
   theme(
     axis.title.x = element_text(colour = "Blue", size = 15),
     axis.title.y = element_text(colour = "Blue", size = 15),
-    plot.title = element_text(hjust = 0.5, size = 20)
-  )
+    axis.text.x = element_text(size = 15),
+    axis.text.y = element_text(size = 15),
+    plot.title = element_text(hjust = 0.5, size = 15),
+    legend.title = element_text(size = 15),
+    text = element_text(family = "Comic Sans MS")
+    )
 
 
-
+q$labels$size <- "Budget $M"
 
 
                                                  
